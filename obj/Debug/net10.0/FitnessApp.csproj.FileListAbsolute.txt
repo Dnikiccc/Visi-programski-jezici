@@ -1,0 +1,14 @@
+C:\Users\Korisnik\Desktop\FitnessApp\bin\Debug\net10.0\FitnessApp.exe
+C:\Users\Korisnik\Desktop\FitnessApp\bin\Debug\net10.0\FitnessApp.deps.json
+C:\Users\Korisnik\Desktop\FitnessApp\bin\Debug\net10.0\FitnessApp.runtimeconfig.json
+C:\Users\Korisnik\Desktop\FitnessApp\bin\Debug\net10.0\FitnessApp.dll
+C:\Users\Korisnik\Desktop\FitnessApp\bin\Debug\net10.0\FitnessApp.pdb
+C:\Users\Korisnik\Desktop\FitnessApp\obj\Debug\net10.0\FitnessApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\FitnessApp\obj\Debug\net10.0\FitnessApp.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\FitnessApp\obj\Debug\net10.0\FitnessApp.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\FitnessApp\obj\Debug\net10.0\FitnessApp.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\FitnessApp\obj\Debug\net10.0\FitnessApp.dll
+C:\Users\Korisnik\Desktop\FitnessApp\obj\Debug\net10.0\refint\FitnessApp.dll
+C:\Users\Korisnik\Desktop\FitnessApp\obj\Debug\net10.0\FitnessApp.pdb
+C:\Users\Korisnik\Desktop\FitnessApp\obj\Debug\net10.0\FitnessApp.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\FitnessApp\obj\Debug\net10.0\ref\FitnessApp.dll
